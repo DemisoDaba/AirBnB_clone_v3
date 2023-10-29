@@ -155,5 +155,5 @@ No known bugs at this time.
 ## Authors
 Demiso Dabaa - [Github](https://github.com/DemisoDaba) /[Twitter](https://twitter.com/DemoNkmt1) /[Linkedin](https://www.linkedin.com/in/demiso-daba-swre0/)
 
-## Licens
+## License
 Public Domain. No copy write protection. 
