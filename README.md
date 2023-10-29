@@ -129,7 +129,7 @@ TestBaseModel class:
 
 ## Examples of use
 ```
-vagrantAirBnB_clone$./console.py
+root@28e21e295230:/AirBnB_clone_v3# ./console.py
 (hbnb) help
 
 Documented commands (type help <topic>):
@@ -139,14 +139,13 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) all MyModel
 ** class doesn't exist **
 (hbnb) create BaseModel
-7da56403-cc45-4f1c-ad32-bfafeb2bb050
+3ebcbdee-9ca3-44b4-a72a-16831b2a6c6a
 (hbnb) all BaseModel
-[[BaseModel] (7da56403-cc45-4f1c-ad32-bfafeb2bb050) {'updated_at': datetime.datetime(2017, 9, 28, 9, 50, 46, 772167), 'id': '7da56403-cc45-4f1c-ad32-bfafeb2bb050', 'created_at': datetime.datetime(2017, 9, 28, 9, 50, 46, 772123)}]
-(hbnb) show BaseModel 7da56403-cc45-4f1c-ad32-bfafeb2bb050
-[BaseModel] (7da56403-cc45-4f1c-ad32-bfafeb2bb050) {'updated_at': datetime.datetime(2017, 9, 28, 9, 50, 46, 772167), 'id': '7da56403-cc45-4f1c-ad32-bfafeb2bb050', 'created_at': datetime.datetime(2017, 9, 28, 9, 50, 46, 772123)}
-(hbnb) destroy BaseModel 7da56403-cc45-4f1c-ad32-bfafeb2bb050
-(hbnb) show BaseModel 7da56403-cc45-4f1c-ad32-bfafeb2bb050
-** no instance found **
+[[BaseModel] (3ebcbdee-9ca3-44b4-a72a-16831b2a6c6a) {'updated_at': datetime.datetime(2023, 10, 29, 7, 32, 59, 176998), 'id': '3ebcbdee-9ca3-44b4-a72a-16831b2a6c6a', 'created_at': datetime.datetime(2023, 10, 29, 7, 32, 59, 176972)}]
+(hbnb) show BaseModel 3ebcbdee-9ca3-44b4-a72a-16831b2a6c6a
+[BaseModel] (3ebcbdee-9ca3-44b4-a72a-16831b2a6c6a) {'updated_at': datetime.datetime(2023, 10, 29, 7, 32, 59, 176998), 'id': '3ebcbdee-9ca3-44b4-a72a-16831b2a6c6a', 'created_at': datetime.datetime(2023, 10, 29, 7, 32, 59, 176972)}
+(hbnb)  destroy BaseModel3ebcbdee-9ca3-44b4-a72a-16831b2a6c6a
+** class doesn't exist **
 (hbnb) quit
 ```
 
