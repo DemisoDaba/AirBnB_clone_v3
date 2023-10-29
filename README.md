@@ -153,10 +153,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang) 
-
-Demiso Daba - [Github](https://github.com/DemisoDaba) /[Twitter](https://twitter.com/DemoNkmt1)
+Demiso Daba - [Github](https://github.com/DemisoDaba) /[Twitter](https://twitter.com/DemoNkmt1) /[Linkedin](https://www.linkedin.com/in/demiso-daba-swre/)
 
 ## License
 Public Domain. No copy write protection. 
