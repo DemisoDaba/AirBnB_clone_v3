@@ -129,7 +129,7 @@ TestBaseModel class:
 
 ## Examples of use
 ```
-root@28e21e295230:/AirBnB_clone_v3# ./console.py
+vagrantAirBnB_clone$_v3# ./console.py
 (hbnb) help
 
 Documented commands (type help <topic>):
